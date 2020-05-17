@@ -4,18 +4,20 @@
 
 ## Skills
 
-+ **Technologies**: Node.js, Expressjs, TypeScript, Angular.js, HTML, CSS, Socket.IO, Twitter Bootstrap, Semantic UI, J2EE, Spring, Android SDK 
-+ **Languages**: Java, SQL, Python, JavaScrpt
-+ **Tools**: sublime-text, yoeman, grunt, gulp, npm, bower, visual studio code
++ **Languages**: Java, GoLang, NodeJs
 + **Databases**: PostgreSQL, MySQL, Mongodb, Redis
 + **APIs**: HTTP/REST
 + **OSes**: UNIX/Linux, OS X, Windows
 
 ## Experience
+### Flipkart
+Software Development Engineer - III
+_05/2018 - Present
+
 
 ### Accolite
 Senior Software Engineer
-_08/2015 - Present
+_08/2015 - _05/2018
 
 + Ported the entire ezhire.accolite.com from node.js stack to Java(Spring) along with @ashuacc
 + Part of the development team for FAD UI framework which is used by many business critical web application at Morgan Stanly
@@ -35,7 +37,6 @@ _01/2014 - 06/2014_
 
 + Led the Android Developement
 + Automated date updates from various sources.
-
 
 ## Education
 + International Institude of Information Technology - Master of Science, Information Technology, 2014
